@@ -1,0 +1,40 @@
+Partlist exported from C:/Users/Jarvis/Documents/eagle/LPC1768 OSHpark/lpc1768.sch at 16/08/2013 6:53:51 AM
+
+Part    Value       Device          Package         Description                                                                         PROD_ID 
+3V3_OUT             M02PTH3         1X02_LONGPADS   Header 2                                                                                    
+5V_OUT              M02PTH3         1X02_LONGPADS   Header 2                                                                                    
+AP15-18             M04LONGPADS     1X04_LONGPADS   Header 4                                                                                    
+C1      100nf       CAP1206         1206            Capacitor                                                                                   
+C2      10uf        CAP_POL1206-KIT EIA3216-KIT     Capacitor Polarized                                                                         
+C3      100nf       CAP1206         1206            Capacitor                                                                                   
+C4      10uf        CAP_POL1206-KIT EIA3216-KIT     Capacitor Polarized                                                                         
+C5      100nf       CAP1206         1206            Capacitor                                                                                   
+C6      100nf       CAP1206         1206            Capacitor                                                                                   
+C7      18pf        CAP1206         1206            Capacitor                                                                                   
+C8      18pf        CAP1206         1206            Capacitor                                                                                   
+C9      100nf       CAP1206         1206            Capacitor                                                                                   
+C10     100nf       CAP1206         1206            Capacitor                                                                                   
+DP21-26             M06LONGPADS     1X06_LONGPADS   Header 6                                                                                    
+I2C                 M02PTH3         1X02_LONGPADS   Header 2                                                                                    
+IC1     LD1117S33   LD1117S33       SOT223          VOLTAGE REGULATOR SMD 3,3V                                                                  
+IC2     LD1117S50   LD1117S50       SOT223          VOLTAGE REGULATOR SMD 5V                                                                    
+IC3     LPC1768     LPC1768         LQFP100                                                                                                     
+LED1    RED         LED1206         LED-1206        LEDs                                                                                        
+LED2    ORANGE      LED1206         LED-1206        LEDs                                                                                        
+LED3    GREEN       LED1206         LED-1206        LEDs                                                                                        
+LED4    BLUE        LED1206         LED-1206        LEDs                                                                                        
+LED5    GREEN       LED1206         LED-1206        LEDs                                                                                        
+PWR                 M02PTH3         1X02_LONGPADS   Header 2                                                                                    
+R1      100K        RESISTOR1206    1206            Resistor                                                                                    
+R2      10K         RESISTOR1206    1206            Resistor                                                                                    
+R3      68R         RESISTOR1206    1206            Resistor                                                                                    
+R4      68R         RESISTOR1206    1206            Resistor                                                                                    
+R5      120R        RESISTOR1206    1206            Resistor                                                                                    
+R6      120R        RESISTOR1206    1206            Resistor                                                                                    
+R7      120R        RESISTOR1206    1206            Resistor                                                                                    
+R8      4K7         RESISTOR1206    1206            Resistor                                                                                    
+R9      10K         RESISTOR1206    1206            Resistor                                                                                    
+SWD                 M05PTH_LONGPADS 1X05_LONGPADS   Header 5                                                                                    
+U1      FT232RLSSOP FT232RLSSOP     SSOP28DB        USB UART                                                                            IC-00870
+X1      USB-MB-S    USB-MB-S        USB-MB-S        USB Connectors                                                                              
+Y1      12mhz       CRYSTAL5X3      CRYSTAL-SMD-5X3 Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534         
